@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    padding: opx;
+    font-family: sans-serif;    
+}
+
+.container{
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: navy;
+    color: #fff;
+}
+
+
+header h1{
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p1{
+    color: midnightblue;
+    font-size: 25px;
+}
+
+p{
+    color: midnightblue;
+}
+
+.create{
+    color: midnightblue;
+}
+
+h4{
+    color: midnightblue;
+}
+
+.right{
+    float: right;
+}
+
+.right table{
+    margin: 10px 0px;
+}
+
+.right td{
+    padding-left: 8px;
+}
+
+.right td a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.right table td a button{
+    background-color: #365899;
+    color: #fff;
+    padding: 3px 8px;
+    text-decoration: none;
+    border: 1px solid #fff;/
+    margin-left: 8px;
+}
+
+section{
+    background-color: #E9EBEE;
+    background-size: cover;
+}
+
+section .connect{
+    font-weight: bold;
+    word-spacing: 0.2en;
+    float: left;
+}
+
+section .create{
+    float: right;
+    width: 40%;
+}
+
+.create h1{
+    font-size: 35px;
+}
+
+.create input{
+    height: 30px;
+    padding: 3px;
+    width: 350px;
+    margin-top: 5%;
+}
+.create .set{
+    width: 350px;
+    margin-top: 5%;
+}
+
+.create .bg{
+    height: auto;
+}
+
+select{
+    height: 30px;
+    padding: 3px;
+    width: 120px;
+    margin-top: 5%;
+}
+
+.create button{
+    padding: 8px 40px;
+    background-color: #5D9149;
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+}
